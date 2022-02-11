@@ -29,7 +29,7 @@ The fix was to build this project and use it to send an email & telegram message
 3. Connect the dc to dc converter out pins to the board (- to gnd, + to the PIN your code is configured as `PORT_CONNECTED_TO_SIREN` default `32`)
 4. the converter in pins should be connected to your alarm exterior siren (mine was named `BELL+` & `BELL-`, check your alarm guide for yours).
 
-# the code
+### the code
 1. Flush your esp32 to [run MicroPyhton](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
 2. change all the variables in `main.py` to your needs (sorry but Micropython doesn't yet have an easy way to pass envvars outside the code)
 3. upload `main.py` & `umail.py` to your esp32
