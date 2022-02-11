@@ -8,7 +8,7 @@ The fix was to build this project and use it to send an email & telegram message
 
 * Send an email when the alarm goes off
 * Send a telegram message when the alarm goes off
-* sends healthchecks pings to influxdb
+* sends healthchecks pings to InfluxDB (I use grafana to read said pings from InfluxDB and alert me if there's a problem with the alarm system as you always need to watch the watchers)
 * alarm should the electrical box where the board is located heats up
 
 ## bill of materials
