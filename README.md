@@ -34,4 +34,4 @@ The fix was to build this project and use it to send an email & telegram message
 2. change all the variables in `main.py` to your needs (sorry but Micropython doesn't yet have an easy way to pass envvars outside the code)
 3. upload `main.py` & `umail.py` to your esp32
 
-Now everytime the alarm goes off You will get alerted via email & telegram without having to pay rediclous prices for a landline (the entire components cost me less then a week of a landline would).
+Now everytime the alarm goes off You will get alerted via email & telegram.
