@@ -10,5 +10,5 @@ pyaes==1.6.1
 pycparser==2.21
 pyserial==3.5
 python-dotenv==1.0.0
-reedsolo==1.7.0
+reedsolo==2.0.5
 six==1.16.0
