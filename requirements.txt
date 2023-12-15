@@ -5,7 +5,7 @@ click==8.1.7
 cryptography==41.0.4
 docopt==0.6.2
 ecdsa==0.18.0
-esptool==4.6.2
+esptool==4.7.0
 pyaes==1.6.1
 pycparser==2.21
 pyserial==3.5
