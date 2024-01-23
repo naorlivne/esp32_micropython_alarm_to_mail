@@ -9,6 +9,6 @@ esptool==4.7.0
 pyaes==1.6.1
 pycparser==2.21
 pyserial==3.5
-python-dotenv==1.0.0
+python-dotenv==1.0.1
 reedsolo==2.0.13
 six==1.16.0
