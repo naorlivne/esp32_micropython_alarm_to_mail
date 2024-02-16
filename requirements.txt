@@ -2,7 +2,7 @@ adafruit-ampy==1.1.0
 bitstring==4.1.4
 cffi==1.16.0
 click==8.1.7
-cryptography==42.0.1
+cryptography==42.0.3
 docopt==0.6.2
 ecdsa==0.18.0
 esptool==4.7.0
