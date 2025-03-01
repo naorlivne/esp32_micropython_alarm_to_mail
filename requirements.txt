@@ -1,5 +1,5 @@
 adafruit-ampy==1.1.0
-bitstring==4.2.3
+bitstring==4.3.0
 cffi==1.17.1
 click==8.1.7
 cryptography==44.0.1
