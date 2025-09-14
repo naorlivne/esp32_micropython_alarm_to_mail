@@ -7,7 +7,7 @@ docopt==0.6.2
 ecdsa==0.19.0
 esptool==4.8.1
 pyaes==1.6.1
-pycparser==2.22
+pycparser==2.23
 pyserial==3.5
 python-dotenv==1.0.1
 reedsolo==2.0.13
